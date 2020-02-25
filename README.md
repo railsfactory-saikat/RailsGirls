@@ -1,4 +1,4 @@
-[![N|Solid](https://github.com/vinojash/sample/blob/master/Resources/railsGirls.PNG)](https://nodesource.com/products/nsolid) 
+[![N|Solid](https://github.com/railsfactory-anusha/RailsGirls/blob/master/resources/railsGirls.PNG)](https://nodesource.com/products/nsolid) 
 
 # Steps to install rails, rvm ruby, postgres 
 
